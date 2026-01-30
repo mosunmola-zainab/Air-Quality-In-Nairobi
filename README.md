@@ -1,6 +1,6 @@
-﻿# Air Quality Time Series Forecasting - Nairobi
+﻿# Air Quality Time Series Forecasting (Nairobi)
 
-Predictive modeling of PM2.5 air pollution levels using AutoRegressive and ARIMA models.
+Predictive modeling of PM2.5 air pollution levels using AutoRegressive and ARMA models.
 
 ## Key Results
 - **MAE: 1.4** (Mean Absolute Error)
