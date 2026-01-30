@@ -13,7 +13,7 @@ Python, Pandas, NumPy, Statsmodels, Scikit-learn, Plotly, MongoDB
 ## Methodology
 1. Data retrieval from MongoDB database
 2. Time series preprocessing and aggregation
-3. AutoRegressive and ARIMA model development
+3. AutoRegressive and ARMA model development
 4. Walk-forward validation
 5. Hyperparameter tuning via grid search
 
