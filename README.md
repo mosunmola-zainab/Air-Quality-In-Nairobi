@@ -31,9 +31,6 @@ Developed time series forecasting models to predict hourly PM2.5 air pollution l
 | AutoReg | 1.4 | 26 lags |
 | ARIMA | 1.67 | (8, 0, 1) |
 
-## Visualizations
-![Predictions vs Actual](images/predictions_plot.png)
-
 ## Setup & Usage
 ```bash
 # Install dependencies
